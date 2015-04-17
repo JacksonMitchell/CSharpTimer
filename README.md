@@ -1,6 +1,9 @@
 # CSharpTimer
 A timer/alarm made using C#
 
+
+
+
 namespace Reduced_Timer
 {
     class Program
