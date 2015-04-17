@@ -4,12 +4,12 @@ A timer/alarm made using C#
 
 
 
-namespace Reduced_Timer
-{
-    class Program
+    Namspace Reduced_Timer
     {
-        public static string _or;
-        public static Thread playNoises = new Thread(PlayNoises);
+        class Program
+        {
+            public static string _or;
+            public static Thread playNoises = new Thread(PlayNoises);
 
         static void Main(string[] args)
         {
